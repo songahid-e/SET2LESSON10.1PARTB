@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Custom Fan Controller</string>
+    <string name="customViewLabel">Fan Control</string>
+</resources>

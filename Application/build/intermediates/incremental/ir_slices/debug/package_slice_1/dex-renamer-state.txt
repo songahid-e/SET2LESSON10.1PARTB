@@ -1,0 +1,4 @@
+#Mon Jun 10 10:36:22 PHT 2019
+base.0=/Users/eukrissongahid/Downloads/android-advanced-master/CustomFanController/Application/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
